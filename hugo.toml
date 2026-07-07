@@ -11,6 +11,8 @@ timeZone = "Asia/Seoul"
   gtm_id = ""
   # WP-49: GSC HTML 태그 인증 (Google 계정 단위 토큰 — 속성마다 다를 필요 없음)
   gsc_verification = "EvHXpDorbbKE9CntN4aVXNtiENA4ilq7byW4ncIlBSw"
+  # WP-55: 네이버 서치어드바이저 HTML 태그 인증 (프로퍼티별 토큰 — 사이트마다 다름)
+  naver_verification = "c5cf2d3548fea0abbc9a9c0ff3a143d1f0107d17"
 
 [pagination]
   pagerSize = 20
