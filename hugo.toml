@@ -5,7 +5,7 @@ languageCode = "en-US"
 enableRobotsTXT = true
 timeZone = "Asia/Seoul"
 
-# 홈에서 검색 색인(index.json) + LLM 인덱스(llms.txt) 생성 — synapse-hugo-shared 모듈 소비
+# 홈에서 검색 색인(index.json) + LLM 인덱스(llms.txt) 생성 — media-hugo-shared 모듈 소비
 [outputs]
   home = ["HTML", "RSS", "JSON", "llms"]
 
@@ -33,7 +33,7 @@ timeZone = "Asia/Seoul"
   daum_verification = ""
   show_term_chips = true
   accent_color   = "#7048e8"
-  # i18n (WP-64): synapse-hugo-shared 라벨 파라미터 — 영문 매체용 값
+  # i18n (WP-64): media-hugo-shared 라벨 파라미터 — 영문 매체용 값
   date_format               = "January 2, 2006"
   label_home                = "Home"
   label_search              = "Search"
