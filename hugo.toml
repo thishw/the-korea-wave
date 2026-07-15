@@ -47,9 +47,13 @@ timeZone = "Asia/Seoul"
   label_llms_posts_heading  = "Articles"
   label_taxonomy_desc       = "Browse articles by category."
   label_taxonomy_empty      = "No categories yet."
+  label_read_more           = "Read more →"
+  label_prev                = "← Previous"
+  label_next                = "Next →"
+  label_pagination          = "Pagination"
 
 [pagination]
-  pagerSize = 20
+  pagerSize = 12
 
 [taxonomies]
   category = "categories"
