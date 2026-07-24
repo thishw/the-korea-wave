@@ -23,6 +23,8 @@ timeZone = "Asia/Seoul"
   logo           = "/brand/wordmark.svg"
   logo_dark      = "/brand/wordmark-dark.svg"
   og_image       = "images/og-default.png"
+  show_hero      = true
+  label_ai_image = "AI-generated illustration"
   gtm_id         = "GTM-5B6XBNBH"
   # WP-49: GSC HTML 태그 인증 (Google 계정 단위 토큰 — 속성마다 다를 필요 없음)
   verify_google  = "EvHXpDorbbKE9CntN4aVXNtiENA4ilq7byW4ncIlBSw"
